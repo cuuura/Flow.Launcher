@@ -17,7 +17,11 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 [Kevin Darlington](https://github.com/kdar) |
 
 ## Edit
-Edit for [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) by cuuura
+Edit for [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) by Cuuura
+
+[![cuuura](https://avatars.githubusercontent.com/u/43667647?s=400&u=471fcf16669df90b3f9e3f8d381614c9a44c9776&v=4)](https://github.com/kdar) |
+--- |
+[cuuura](https://github.com/cuuura) |
 
 ## License
 
