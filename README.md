@@ -1,12 +1,12 @@
-# Dracula for [Wox](https://github.com/Wox-launcher/Wox)
+# Dracula for [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 
-> A dark theme for [Wox](https://github.com/Wox-launcher/Wox).
+> A dark theme for [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/wox](https://draculatheme.com/wox).
+All instructions can be found at [draculatheme.com/flowLauncher](https://github.com/Flow-Launcher/Flow.Launcher).
 
 ## Team
 
